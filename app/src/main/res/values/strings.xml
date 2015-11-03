@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camara Uno</string>
+    <string name="action_settings">Setings</string>
+    <string name="Descrip">Aplicación que captura una imagen</string>
+</resources>
